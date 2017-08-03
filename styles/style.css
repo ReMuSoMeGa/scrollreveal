@@ -1,0 +1,56 @@
+
+/*  font-family: 'Varela Round', sans-serif; */
+body{
+  margin-top: 70px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Varela Round', sans-serif;
+}
+
+.navbar-default{
+  border:1;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  color: #A0AFB7 !important;
+  font-weight: bold;
+}
+
+#showcase h1{
+  font-size:50px;
+  margin-bottom:25px;
+}
+
+#showcase img{
+  width:85%;
+}
+
+#showcase .showcase-right{
+  margin-top:80px;
+}
+
+#testimony{
+  background-color: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: justify;
+  margin-top:50px;
+}
+
+#more{
+  margin-top:40px;
+}
+
+#contact{
+  margin-top:50px;
+  background:url('../img/girl.jpg');
+  padding:10px;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
+}
+
+footer{
+  padding:10px;
+}
